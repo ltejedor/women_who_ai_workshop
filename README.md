@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ### Backend
 ```bash
 cd backend
-uvicorn app:app --reload
+python -m uvicorn app:app --reload
 ```
 
 ### Frontend
