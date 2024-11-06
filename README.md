@@ -2,6 +2,11 @@
 
 ## Running the Application
 
+### Install Python requirements
+```bash
+pip install -r requirements.txt
+```
+
 ### Backend
 ```bash
 cd backend
